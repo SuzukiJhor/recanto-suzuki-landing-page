@@ -38,12 +38,6 @@ export function Footer() {
                   (44) 99940-9361
                 </a>
               </li>
-              <li>
-                <a href="tel:+554492007709" className="flex items-center gap-2 hover:text-background transition-colors">
-                  <Phone className="w-4 h-4" />
-                  (44) 92000-7709
-                </a>
-              </li>
               <li className="flex items-start gap-2">
                 <MapPin className="w-4 h-4 mt-1 shrink-0" />
                 <span>Alto Paraná - PR</span>
@@ -84,7 +78,7 @@ export function Footer() {
       <div className="border-t border-background/10">
         <div className="container mx-auto px-4 py-6 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-background/60 text-sm">
-            © {new Date().getFullYear()} Recanto Suzuki. Todos os direitos reservados.
+            © {new Date().getFullYear()} J.Suzuki  Design e Tecnologia LTDA Todos os direitos reservados.
           </p>
           <div className="flex gap-4">
             <a

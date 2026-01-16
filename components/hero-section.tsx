@@ -73,10 +73,6 @@ export function HeroSection() {
             <Phone className="w-4 h-4" />
             (44) 99940-9361
           </a>
-          <a href="tel:+554492007709" className="flex items-center gap-2 hover:text-white transition-colors">
-            <Phone className="w-4 h-4" />
-            (44) 92000-7709
-          </a>
         </div>
       </div>
 
