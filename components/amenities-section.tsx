@@ -9,6 +9,7 @@ import {
   TreePine,
   Armchair,
   Snowflake,
+  CookingPot,
 } from "lucide-react"
 
 const amenities = [
@@ -18,7 +19,7 @@ const amenities = [
   { icon: UtensilsCrossed, name: "Cozinha Equipada", description: "Cozinha completa para uso" },
   { icon: Snowflake, name: "Freezer", description: "Freezer disponível" },
   { icon: Refrigerator, name: "Geladeira", description: "Geladeira espaçosa" },
-  { icon: Flame, name: "Fogão", description: "Fogão para preparo de refeições" },
+  { icon: CookingPot, name: "Fogão", description: "Fogão para preparo de refeições" },
   { icon: Flame, name: "Churrasqueira", description: "Churrasqueira completa" },
   { icon: Armchair, name: "Mesas e Cadeiras", description: "Mobiliário para convidados" },
   { icon: Car, name: "Estacionamento", description: "Amplo espaço para veículos" },

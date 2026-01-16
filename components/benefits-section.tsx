@@ -40,7 +40,7 @@ export function BenefitsSection() {
         {/* Header */}
         <div className="text-center max-w-3xl mx-auto mb-16">
           <span className="inline-block px-4 py-2 bg-primary/10 text-primary rounded-full text-sm font-medium mb-4">
-            Por que escolher
+            Porque escolher
           </span>
           <h2 className="font-serif text-4xl md:text-5xl font-bold text-foreground mb-6">
             O lugar ideal para seu evento
