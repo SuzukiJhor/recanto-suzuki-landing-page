@@ -76,26 +76,32 @@ export function Footer() {
 
       {/* Bottom Bar */}
       <div className="border-t border-background/10">
-        <div className="container mx-auto px-4 py-6 flex flex-col md:flex-row justify-between items-center gap-4">
-          <p className="text-background/60 text-sm">
-            © {new Date().getFullYear()} J.Suzuki  Design e Tecnologia LTDA Todos os direitos reservados.
-          </p>
+        <div className="container mx-auto px-4 py-6 flex flex-col items-center gap-4 text-center">
+
           <div className="flex gap-4">
             <a
-              href="#"
-              className="w-10 h-10 bg-background/10 rounded-full flex items-center justify-center hover:bg-background/20 transition-colors"
-              aria-label="Instagram"
+              href="https://instagram.com/chacara_suzukii"
+              target="_blank"
+              aria-label="Instagram Recanto Suzuki"
+              className="
+                w-14 h-14 
+                bg-linear-to-tr from-[#F58529] via-[#DD2A7B] to-[#8134AF]
+                rounded-full 
+                flex items-center justify-center
+                text-white
+                shadow-lg shadow-pink-500/30
+                hover:scale-110 hover:shadow-pink-500/50
+                transition-all duration-300
+              "
             >
-              <Instagram className="w-5 h-5" />
+              <Instagram className="w-6 h-6" />
             </a>
-            <a
-              href="#"
-              className="w-10 h-10 bg-background/10 rounded-full flex items-center justify-center hover:bg-background/20 transition-colors"
-              aria-label="Facebook"
-            >
-              <Facebook className="w-5 h-5" />
-            </a>
+
+
           </div>
+          <p className="text-background/60 text-sm pt-12">
+            © {new Date().getFullYear()} J.Suzuki  Design e Tecnologia LTDA Todos os direitos reservados.
+          </p>
         </div>
       </div>
     </footer>
