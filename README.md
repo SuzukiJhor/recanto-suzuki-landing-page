@@ -66,3 +66,6 @@ http://localhost:3000
 
 ![Status](https://img.shields.io/badge/Status-MVP%20Published-success)
 ![Next.js](https://img.shields.io/badge/Next.js-16-black)
+
+<img width="2656" height="5102" alt="www recantosuzuki com br-cortado" src="https://github.com/user-attachments/assets/00d07507-8c64-4cfc-91b5-d69d8a962708" />
+
