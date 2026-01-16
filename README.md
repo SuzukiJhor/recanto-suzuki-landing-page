@@ -61,3 +61,8 @@ npm run dev
 Acesse:
 
 http://localhost:3000
+
+<br>
+
+![Status](https://img.shields.io/badge/Status-MVP%20Published-success)
+![Next.js](https://img.shields.io/badge/Next.js-16-black)
