@@ -23,7 +23,7 @@ Apresentar a estrutura e os serviços do Recanto Suzuki e facilitar o contato di
 ---
 
 ## 📁 Estrutura do Projeto
-
+```
 recanto-suzuki-landing-page/
 ├── app/
 │ ├── layout.tsx
@@ -36,7 +36,7 @@ recanto-suzuki-landing-page/
 ├── next.config.js
 ├── package.json
 └── README.md
-
+```
 
 ---
 
