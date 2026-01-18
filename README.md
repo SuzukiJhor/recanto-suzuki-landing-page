@@ -1,10 +1,10 @@
 # Recanto Suzuki Landing Page
 
-Landing page estática desenvolvida em **Next.js** para divulgação do espaço Recanto Suzuki, com foco em **SEO**, **performance** e **conversão via WhatsApp**.
+Static landing page built with Next.js for Recanto Suzuki, optimized for SEO, performance, and WhatsApp-driven conversions.
 
 ---
 
-## 📌 Tecnologias Utilizadas
+## 📌 Tech Stack
 
 - Next.js (App Router)
 - React
@@ -16,13 +16,12 @@ Landing page estática desenvolvida em **Next.js** para divulgação do espaço 
 
 ---
 
-## 🎯 Objetivo do Projeto
+## 🎯 Project Goal
 
-Apresentar a estrutura e os serviços do Recanto Suzuki e facilitar o contato direto com potenciais clientes por meio de botão de WhatsApp.
-
+To showcase Recanto Suzuki's facilities and services, while facilitating direct contact with potential customers through a WhatsApp button.
 ---
 
-## 📁 Estrutura do Projeto
+## 📁 Project Structure
 ```
 recanto-suzuki-landing-page/
 ├── app/
@@ -40,16 +39,16 @@ recanto-suzuki-landing-page/
 
 ---
 
-## ⚙️ Requisitos
+## ⚙️ Requirements
 
 - Node.js 18+
 - NPM ou Yarn
 
 ---
 
-## 🚀 Instalação
+## 🚀 Installation
 
-Clone o repositório:
+Clone the repository:
 
 ```bash
 git clone https://github.com/seu-usuario/recanto-suzuki-landing-page.git
@@ -58,7 +57,7 @@ npm install
 npm run dev
 ```
 
-Acesse:
+Access:
 
 http://localhost:3000
 
